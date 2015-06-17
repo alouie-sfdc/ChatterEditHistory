@@ -7,9 +7,9 @@ The Summer '15 release brought us the [Edit Feed Posts and Comments](http://docs
 # Installation
 Add the Apex classes and VisualForce page to your org, and grant access to the users who need to use it.
 
-Here's what the page looks like:
+Here are some sample screenshots of what an edited Chatter thread looks like in the Salesforce UI and in the VisualForce page. The post and the first comment are edited:
 
-[ADD IMAGE]
+![Screenshot](https://cloud.githubusercontent.com/assets/6492902/8214166/2f2c9faa-14dc-11e5-9847-2ab82211df17.png "Screenshot")
 
 Admittedly, it's not the prettiest page. Pull requests are welcome!
 
